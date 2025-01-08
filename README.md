@@ -10,5 +10,5 @@
 
 - 如果有安裝 python，將 divin64路徑下所有檔案下載到同個資料夾，執行 main 的程式碼
 開始卜卦
-- 如果未安裝python，可以直接下載打包好的 exe檔，執行app
-    - exe檔下載位置: https://drive.google.com/drive/folders/1-aY_9Oz7Mky-A8UeT0WYKlL-ZTRwHTfU?usp=drive_link 
+- 如果未安裝python，可以直接下載路徑中的兩個檔案，利用打包好的 exe檔執行app
+    - 檔下載位置: https://drive.google.com/drive/folders/1-aY_9Oz7Mky-A8UeT0WYKlL-ZTRwHTfU?usp=drive_link 
